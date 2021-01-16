@@ -1,0 +1,12 @@
+
+accounts {
+      {"userinfo":[{"id":"1","email":"philip.sve@hotmail.com","password":"lillsnorre96"},{"id":"2","email":"oswe@hotmail.com","password":"kukhoran96"}]}
+}
+
+decks {
+      {"id":"1","root_deck":[{"Cards":[],"Decks":[]}]}
+}
+{"ids":[{"id":"0","root_deck":{"Cards":[],"Decks":[{"Cards":[],"Decks":[{"Cards":[],"Decks":[],"title":"aerodynamics"},{"Cards":[],"Decks":[],"title":"mechanics"}],"title":"physics"},{"Cards":[],"Decks":[],"title":"chemistry"}]}},{"id":"1","root_deck":{"Cards":[],"Decks":[]}},{"id":"2","root_deck":{"Cards":[],"Decks":[]}}]}
+
+{"userinfo":[{"id":"0","email":"philip.sve@hotmail.com","password":"lillsnorre96"},{"id":"1","email":"oswe@hotmail.com","password":"kukhoran96"},{"id":"2","email":"a","password":"a"}]}
+{"philip.sve@hotmail.com":{"password":"lillsnorre96", "id":"0"}, "oswe.sve@hotmail.com":{"password":"lillsnorre96", "id":"1"},"a":{"password":"a", "id":"2"}}
